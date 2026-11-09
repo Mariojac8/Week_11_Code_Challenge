@@ -9,9 +9,9 @@
 5. Complete the code challenge in the file `gradebook_challenge.py` in this same repository. You can edit it in the browser or download it and work in your usual editor, then upload the finished file.
 6. When everything is done, copy the web address (URL) of your forked repository and submit that link on Moodle.
 
-Name:
-Section:
-Date:
+Name: Mario Jacobo 
+Section: CIS 105
+Date: November 9th, 2026 
 
 ---
 
